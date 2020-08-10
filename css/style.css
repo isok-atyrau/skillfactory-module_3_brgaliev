@@ -58,7 +58,10 @@ body {
   text-decoration: none;
 }
 .nav_link:hover {
-  background-color: red;
+  background-color:blueviolet;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 800;
 }
 
 /*----intro====*/
