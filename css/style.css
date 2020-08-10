@@ -58,10 +58,10 @@ body {
   text-decoration: none;
 }
 .nav_link:hover {
-  background-color:blueviolet;
-  font-style: italic;
+  background-color:rgb(226, 43, 58);
+  /* font-style: italic;
   font-size: 25px;
-  font-weight: 800;
+  font-weight: 800; */
 }
 
 /*----intro====*/
