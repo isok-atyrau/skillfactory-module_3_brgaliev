@@ -58,7 +58,9 @@ body {
   text-decoration: none;
 }
 .nav_link:hover {
-  background-color: red;
+  background-color:greenyellow;
+  font-style: italic;
+  font-size: 25px;
 }
 
 /*----intro====*/
